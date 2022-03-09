@@ -1,0 +1,19 @@
+---
+information:
+    name: 'NameFileChanger'
+    version: '1.0.0'
+    author: 'Julien POIROU'
+config:
+    separator: '_'
+    indicationEpisode: 'E'
+    indicationSeason: 'S'
+    formatEpisodes: '10'
+    formatSeasons: '00'
+    modele: 'NAME_EPISODE_SEASON_VERSION_YYYY'
+    year: '2022'
+    month: '12'
+    day: '24'
+    season: '1'
+    name: 'Euphoria'
+    version: 'Vostfr'
+    type: 'Episode'
